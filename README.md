@@ -10,6 +10,13 @@ Neatly composed rules for AI LLMs like Cursor.
 4. Mark the rules you want to install.  
 5. Enjoy! 😉
 
+## Community Collections
+
+Discover additional cursor rules collections built by the community:
+
+### [Survivor Forge Cursor Rules](https://github.com/survivorforge/cursor-rules)
+35+ production-quality `.cursorrules` files for 16 frameworks (React, Next.js, Python, Go, Rust, SvelteKit, Django, FastAPI, and more). Each rule includes code style, architecture patterns, testing guidance, and best practices. Free, MIT licensed, with community contributions welcome.
+
 ## Contributing
 
 1. Fork the repo.  
@@ -20,4 +27,4 @@ Neatly composed rules for AI LLMs like Cursor.
 
 - [ ] Add a `reliverse rules update` command to check for updates and apply them.  
 - [ ] Add an optional `--ide cursor|ws|code` flag to the `reliverse rules` command.  
-- [ ] Add support for Windsurf and VSCode Copilot.  
+- [ ] Add support for Windsurf and VSCode Copilot.
