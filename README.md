@@ -10,6 +10,8 @@ Neatly composed rules for AI LLMs like Cursor.
 4. Mark the rules you want to install.  
 5. Enjoy! 😉
 
+${ASB}
+${OSF}
 ## Contributing
 
 1. Fork the repo.  
