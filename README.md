@@ -10,6 +10,8 @@ Neatly composed rules for AI LLMs like Cursor.
 4. Mark the rules you want to install.  
 5. Enjoy! 😉
 
+- [Skill Hub](https://skill.442595.xyz/) — 5800+ curated AI Agent Skills for Claude Code, Codex, Cursor, Hermes & more across 22 categories.
+
 ## Contributing
 
 1. Fork the repo.  
